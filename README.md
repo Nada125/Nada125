@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nada125
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @Nada125
+-  I’m interested in software engineering
+   I’m currently learning.NET 
+
+
 
 <!---
 Nada125/Nada125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
